@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{
+    "item": "glassworks15:glass_plate"
+  }],
+  "result": {
+    "item": "minecraft:glass_pane"
+  }
+}

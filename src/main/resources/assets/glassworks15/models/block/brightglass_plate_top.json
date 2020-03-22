@@ -1,0 +1,7 @@
+{
+  "parent": "glassworks15:block/plate_top",
+  "textures": {
+    "particle": "glassworks:block/brightglass",
+    "glass": "glassworks15:block/brightglass"
+  }
+}

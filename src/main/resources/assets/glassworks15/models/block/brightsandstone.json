@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "glassworks15:block/brightsandstone_bottom",
+    "top": "glassworks15:block/brightsandstone_top",
+    "side": "glassworks15:block/brightsandstone"
+  }
+}

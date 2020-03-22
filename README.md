@@ -1,2 +1,1 @@
-# GlassWorks.15
-Minecraft blocks mod
+Glassworks.15

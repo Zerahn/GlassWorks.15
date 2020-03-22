@@ -1,0 +1,22 @@
+{
+  "language.name": "English",
+  "language_region": "United States",
+  "language_code": "en_us",
+  "item.glassworks15.brightshard": "Brightshard",
+  "item.glassworks15.brightshards": "Broken Brightglass",
+  "item.glassworks15.glass_shard": "Glass Shard",
+  "item.glassworks15.glass_shards": "Broken Glass",
+  "item.glassworks15.brightsand": "Brightsand",
+  "item.glassworks15.brightsandstone": "Bright Sandstone",
+  "item.glassworks15.brightsandstone_smooth": "Smooth Bright Sandstone",
+  "item.glassworks15.brightglass": "Brightglass",
+  "item.glassworks15.brightglass_pane": "Pane of Brightglass",
+  "item.glassworks15.brightglass_plate": "Plate of Brightglass",
+  "block.glassworks15.brightsand": "Brightsand",
+  "block.glassworks15.brightsandstone": "Bright Sandstone",
+  "block.glassworks15.brightsandstone_smooth": "Smooth Bright Sandstone",
+  "block.glassworks15.brightglass": "Brightglass",
+  "block.glassworks15.brightglass_pane": "Pane of Brightglass",
+  "block.glassworks15.brightglass_plate": "Plate of Brightglass",
+  "block.glassworks15.glass_plate": "Plate of Glass"
+}

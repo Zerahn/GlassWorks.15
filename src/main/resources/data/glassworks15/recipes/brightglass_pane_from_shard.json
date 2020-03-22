@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "glassworks15:brightshard"
+  },
+  "result": "glassworks15:brightglass_pane",
+  "cookingtime": 15
+}

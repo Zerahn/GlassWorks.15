@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "glassworks15:block/brightsandstone_top"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "glassworks15:glass_shards"
+  },
+  "result": "minecraft:glass",
+  "experience": 0.2,
+  "cookingtime": 200
+}

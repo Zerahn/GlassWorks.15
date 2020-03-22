@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "glassworks15:brightsand"
+  },
+  "result": "glassworks15:brightglass",
+  "experience": 0.2,
+  "cookingtime": 200
+}

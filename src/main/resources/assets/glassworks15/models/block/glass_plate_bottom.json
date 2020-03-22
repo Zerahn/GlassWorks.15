@@ -1,0 +1,7 @@
+{
+  "parent": "glassworks15:block/plate_bottom",
+  "textures": {
+    "particle": "block/glass",
+    "glass": "block/glass"
+  }
+}

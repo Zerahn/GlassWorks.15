@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "pools": [{
+    "name":"main",
+    "rolls": 1,
+    "entries": [{
+      "type": "minecraft:alternatives",
+      "children": [{
+        "type": "empty",
+        "conditions": [{
+          "condition": "minecraft:match_tool",
+          "predicate": {
+            "enchantments": [{
+              "enchantment": "minecraft:silk_touch",
+              "levels": {
+                "min": 1
+              }
+            }]
+          }
+        }]
+      },{
+        "type": "minecraft:item",
+        "name": "glassworks15:glass_shards"
+      }]
+    }],
+    "conditions": [{
+      "condition": "minecraft:survives_explosion"
+    }]
+  }]
+}

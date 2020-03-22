@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom": {"model": "glassworks15:block/glass_plate_bottom"},
+    "half=top": {"model": "glassworks15:block/glass_plate_top"}
+  }
+}

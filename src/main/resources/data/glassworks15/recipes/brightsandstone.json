@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "glassworks15:brightsand"
+    }
+  },
+  "result": {
+    "item": "glassworks15:brightsandstone",
+    "count": 1
+  }
+}

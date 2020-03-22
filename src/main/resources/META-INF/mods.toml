@@ -1,0 +1,17 @@
+modLoader="javafml" #mandatory
+loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+#issueTrackerURL="http://my.issue.tracker/" #optional
+[[mods]] #mandatory
+modId="glassworks15" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="GlassWorks.15" #mandatory
+updateJSONURL="http://myurl.me/" #optional
+# A file name (in the root of the mod JAR) containing a logo for display
+logoFile="glassworks15.png" #optional
+credits="pupnewfster for the one question I had to ask in Discord, Google and forums for everything else" #optional
+# A text field displayed in the mod UI
+authors="Zerahn" #optional
+# The description text for the mod (multi line!) (#mandatory)
+description='''
+Light-emitting glass and sand.
+'''
